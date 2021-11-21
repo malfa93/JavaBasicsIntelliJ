@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class17" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class16" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class15" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class14" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class13" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class10" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class12" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class11" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class09" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/eclipse-workspace/JavaBasics/src/com/syntax/class01" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class01" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class13" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class10" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class12" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class11" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class09" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class14" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class15" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class16" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/com/syntax/class17" includeSubdirectories="true" />
+    </excludeFromCompile>
+  </component>
+</project>
