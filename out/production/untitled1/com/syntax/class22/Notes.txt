@@ -6,3 +6,11 @@ child classes inside that array than we can write loops to call all
 methods from all the classes
 3) We can not store/cast a parent class object to a child class variable
 but if parent type already contains the child object, then we can get it back by casting it
+
+Final Keyword:
+1)If we write final with a VARIABLE we can not change its value.
+    Either we should initialize it right away or through the constructor.
+2)When used with METHOD we can;t override that method in child class
+3)When used with CLASS then no class can extend from that class
+
+
