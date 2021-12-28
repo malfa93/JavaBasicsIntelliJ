@@ -1,0 +1,8 @@
+Why learn fileHandling in Java:
+    1) Putting sensitve info indie the code is not a good idea because everyone who has the access to the code will be
+        able to see them
+    2) Everytime we test our applications on different enviroment, we have to change the code to update the credentials.
+        It's also not a good idea and it can introduce bugs.
+We will be discussing two types of files:
+    1) Properties file
+    2) Excel file
