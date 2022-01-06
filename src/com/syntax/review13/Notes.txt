@@ -1,0 +1,52 @@
+Exception Handling
+1) It's an unwanted event that disrupts the normal flow of the program. It happens at runtime.
+
+For example:
+
+If we specify wrong path, we get a FileNotFoundException
+
+Why care about exceptions:
+
+If we do not handle exceptions in our programs and aget an issue at runtime, the complete application will be terminated
+
+If we provide complex error messages to the users like Aysha, it will not make much sense for them. That is why we
+should convert these error messages to something simple.
+
+We can get complete stack trace and can find the use quickly by looking at the stack trace.
+
+Types of issues (Error, Exceptions):
+Exceptions:
+    Checked/Unchecked
+Error:
+    Server issues
+
+
+Exceptions:
+    These are the issues that we should catch in our code and should provide the backup code (Try Catch)
+Checked Exceptions:
+    These are types of exceptions that are forced by compiler and we should always provide a try catch block for these
+    types of exceptions. For example IOException, FileNotFoundException etc.
+Unchecked Exception:
+    These are not forced by compiler. It can be avoided by writing good code.
+    Examples are NullPointerException, IndexOutOfBoundsException etc.
+Keywords:
+-try
+-catch
+-finally
+-throw
+-throws
+
+try:
+    It is used with curly brackets, it's used to wrap the problematic code.
+catch:
+    It is used with curly brackets, it's used to provide back up code.
+finally:
+    It is used to write an important cleanup code
+throw:
+    Used when we have to throw an exception.
+throws:
+    to indicate that a method can throw a specific exception
+
+
+Rules:
+

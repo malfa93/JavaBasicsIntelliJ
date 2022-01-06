@@ -17,16 +17,17 @@ public class Account {
 			System.out.println("UserName of this length is not allowed");
 		}
 		
-		public void getBalance(String accountuserName, String accountPassword) {
-			
-			if(userName.contentEquals(accountuserName)&&password.contentEquals(accountPassword)) {
-				
-				
-			}
-			
-			
+//		public void getBalance(String accountuserName, String accountPassword) {
+//
+//			if(userName.contentEquals(accountuserName)&&password.contentEquals(accountPassword)) {
+//
+//				System.out.println("Get from GIT HUB!");
+//
+//
+//			}
+
+
 		}
 		
 		
 	}
-}

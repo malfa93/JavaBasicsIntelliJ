@@ -2,7 +2,8 @@ package com.syntax.class16;
 
 public class AccessModifiersDemo {
 
-		private String name;
+
+	public String name;
 		int age;
 		public double salary;
 		

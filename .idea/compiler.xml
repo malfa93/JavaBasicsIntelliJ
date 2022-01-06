@@ -20,8 +20,6 @@
       <directory url="file://$PROJECT_DIR$/src/com/syntax/class09" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/com/syntax/class14" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/com/syntax/class15" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/com/syntax/class16" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/com/syntax/class17" includeSubdirectories="true" />
     </excludeFromCompile>
   </component>
 </project>

@@ -1,0 +1,20 @@
+package com.syntax.review12;
+
+import java.util.Collections;
+import java.util.HashSet;
+
+public class SetDemo2 {
+    public static void main(String[] args) {
+
+        HashSet<Integer> hashSet = new HashSet();
+        hashSet.add(10);
+        hashSet.add(20);
+        hashSet.add(20); // duplicates are not allowed, so it will ignore.
+        hashSet.add(30);
+
+        hashSet.removeIf(x->x>10);
+        System.out.println(hashSet);
+
+
+    }
+}
